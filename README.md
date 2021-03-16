@@ -2,7 +2,7 @@
 team-project-team15 created by GitHub Classroom
 
 # Online Banking system
-#Day 1
+# Day 1
 To Do List:
 1- Choosing a Scrum manager tool:
 	Potential candidates: Jira, Zenhub, Rally (CA Agile Central)
