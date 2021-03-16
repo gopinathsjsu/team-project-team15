@@ -2,7 +2,7 @@
 team-project-team15 created by GitHub Classroom
 
 # Online Banking system
-
+#Day 1
 To Do List:
 1- Choosing a Scrum manager tool:
 	Potential candidates: Jira, Zenhub, Rally (CA Agile Central)
@@ -13,4 +13,8 @@ To Do List:
 	Front-End: React, Angular, Python……., Back-End: JAVA, Python,.........
 
 4- Choosing scrum day: Monday evening , Sunday evening, Friday evening
+
+
+
+
 
