@@ -17,7 +17,7 @@ To Do List:
 
 
 ### Architectural Diagram
-file:///Users/anaghasethuraman/Downloads/ArchDia%20(2).jpg
+![ArchDia](https://user-images.githubusercontent.com/78836467/114156018-fa053280-98d6-11eb-8da6-76a0370bbbc9.jpg)
 
 
 
