@@ -17,7 +17,7 @@ To Do List:
 
 
 ### Architectural Diagram
-
+file:///Users/anaghasethuraman/Downloads/ArchDia%20(2).jpg
 
 
 
