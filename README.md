@@ -11,17 +11,38 @@ team-project-team15 created by GitHub Classroom
   * Sandhya Santhanam
   * Zeel Jayeshkumar Soni
   
-# Day 1
-To Do List:
-1- Choosing a Scrum manager tool:
-	Potential candidates: Jira, Zenhub, Rally (CA Agile Central)
+### Tools and Languages used: 
+   
+  * Frontend : React JS
+  * Backend  : Python Flask
+  * Database : MongoDB
+  
+### Scrum manager tool: 
+   
+  * JIRA
+  
+### Scrum meetings schedule: 
+   
+  * Monday     
+  * Wednesday
+  * Fridays
+  
+### Tasks 
+ 
+  * Frontend : Anagha Sethuraman , Zeel Jayeshkumar Soni
+  * Backend  : Ealrada Piroyan ,  Sandhya Santhanam
+  * Database : Anushree G
+   
+### XP Core Values Implemented:
 
-2- Individual rules:
+  * Communication
+  * Simplicity
+  * Feedback
+  * Courage 
+  * Respect
 
-3- Choosing the technologies:
-	Front-End: React, Angular, Python……., Back-End: JAVA, Python,.........
+	
 
-4- Choosing scrum day: Monday evening , Sunday evening, Friday evening
 
 
 
