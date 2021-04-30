@@ -1,7 +1,16 @@
-# team-project-team15
+# Team-project-Team15
 team-project-team15 created by GitHub Classroom
 
-# Online Banking system
+## Online Banking system
+
+### Team Members : 
+  
+  * Anagha Sethuraman
+  * Anushree G
+  * Ealrada Piroyan
+  * Sandhya Santhanam
+  * Zeel Jayeshkumar Soni
+  
 # Day 1
 To Do List:
 1- Choosing a Scrum manager tool:
