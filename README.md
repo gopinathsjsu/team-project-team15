@@ -6,7 +6,7 @@ team-project-team15 created by GitHub Classroom
 ### Team Members : 
   
   * Anagha Sethuraman
-  * Anushree G
+  * Anushree 
   * Ealrada Piroyan
   * Sandhya Santhanam
   * Zeel Jayeshkumar Soni
@@ -48,6 +48,7 @@ team-project-team15 created by GitHub Classroom
 
 ### Architectural Diagram
 ![ArchDia](https://user-images.githubusercontent.com/78836467/114156018-fa053280-98d6-11eb-8da6-76a0370bbbc9.jpg)
+
 
 
 
