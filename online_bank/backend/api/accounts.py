@@ -78,10 +78,16 @@ def open_account():
 @accounts_bp.route('/accounts/close/<string:account_num>', methods=['DELETE'])
 @am.jwt_required
 def close_account(account_num):
+    print("FROM ACCOUNT CLOSE API")
     if not am.verify(account_num):
         return am.jsonify({'msg': 'Invalid account number checksum'}), 422
 
-    current_user = am.get_jwt_identity()['username']
+    query = {'accounts.account_number':account_num}
+    current_user_acc = am.clients.find_one(query)
+    print(current_user_acc)
+    current_user = current_user_acc['username'] 
+
+    # current_user = am.get_jwt_identity()['username']
 
     if account_num[0] == '4':
         pre_update = am.clients.find_one_and_update(
@@ -116,6 +122,49 @@ def close_account(account_num):
     if not result.modified_count:
         return am.jsonify({'msg': 'Failed to close account'}), 409
     return am.jsonify({'msg': f'Account {account_num} closed'}), 200
+
+
+    # if not am.verify(account_num):
+    #     return am.jsonify({'msg': 'Invalid account number checksum'}), 422
+
+    # current_user = am.get_jwt_identity()['username']
+    # current_user = "zeel"
+    # print("FROM CLOSE ACCOUNT API")
+    # print(current_user)
+
+    # if account_num[0] == '4':
+    #     pre_update = am.clients.find_one_and_update(
+    #         {'username': current_user},
+    #         {'$unset': {'auto_pay': ''}}
+    #     )
+    #     jobs = pre_update.get('auto_pay', [])
+    #     for job in jobs:
+    #         scheduler.remove_job(job['job_id'], jobstore='mongo')
+
+    # else:
+    #     query = {'username': current_user,
+    #              'auto_pay.from': account_num}
+    #     autopay = am.clients.find_one(query,
+    #                                   {'auto_pay.$': True})
+    #     if autopay:
+    #         current_job = autopay['auto_pay'][0]
+    #         scheduler.remove_job(current_job['job_id'], jobstore='mongo')
+    #         am.clients.update_one(query,
+    #                               {'$pull': {
+    #                                   'auto_pay': {'from': account_num}
+    #                               }})
+
+    # result = am.clients.update_one(
+    #     {'username': current_user},
+    #     {
+    #         '$pull': {
+    #             'accounts': {'account_number': account_num}
+    #         }
+    #     }
+    # )
+    # if not result.modified_count:
+    #     return am.jsonify({'msg': 'Failed to close account'}), 409
+    # return am.jsonify({'msg': f'Account {account_num} closed'}), 200
 
 
 @accounts_bp.route('/accounts/delete', methods=['DELETE'])
