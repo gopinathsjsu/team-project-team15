@@ -70,10 +70,10 @@ class Nav extends React.Component {
                         </li>
                         <li className="nav-item">
                             <Link className={this.props.active.act3} to="/transfer">Transfer</Link>
-                        </li>
+                        </li>*/}
                         <li className="nav-item">
                             <Link className={this.props.active.act4} to="/deposit">Deposit</Link>
-                        </li> */}
+                        </li> 
                     </ul>
                     <ul className="nav nav-pills nav-fill">
                         <li className="nav-item">
