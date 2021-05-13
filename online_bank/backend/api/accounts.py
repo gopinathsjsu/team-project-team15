@@ -19,7 +19,10 @@ def open_account():
     except KeyError:
         return am.jsonify({'msg': 'Bad Request, missing/misspelled key'}), 400
 
-    current_user = am.get_jwt_identity()['username']
+    print(data)
+    current_user = data['username']
+
+    # current_user = am.get_jwt_identity()['username']
     account_num = am.get_account_num(acc_type)
     if acc_type not in ('credit', 'checking', 'saving'):
         return am.jsonify({'msg': 'Invalid Account Type'}), 400
