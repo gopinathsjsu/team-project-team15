@@ -30,7 +30,7 @@ team-project-team15 created by GitHub Classroom
 ### Tasks 
  
   * Frontend : Anagha Sethuraman , Zeel Jayeshkumar Soni
-  * Backend  : Ealrada Piroyan ,  Sandhya Santhanam
+  * Backend  : Ealrada Piroyan ,  Sandhya Santhanam,Anushree
   * Database : Anushree G
    
 ### XP Core Values Implemented:
