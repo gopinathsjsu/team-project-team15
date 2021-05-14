@@ -53,7 +53,8 @@ team-project-team15 created by GitHub Classroom
 ![ArchDia](https://user-images.githubusercontent.com/78836467/114156018-fa053280-98d6-11eb-8da6-76a0370bbbc9.jpg)
 
 ### UI Wireframes
-![azase-wireframe-HQ](https://user-images.githubusercontent.com/43404881/118241183-b612c980-b450-11eb-8f34-6b2f1c0b315d.png)
+![azase-wireframe-HQ](https://user-images.githubusercontent.com/43404881/118243612-78fc0680-b453-11eb-8ab8-fa143f0255d3.png)
+
 
 
 
