@@ -33,23 +33,24 @@ team-project-team15 created by GitHub Classroom
   * Backend  : Ealrada Piroyan ,  Sandhya Santhanam,Anushree
   * Database : Anushree G
    
-### XP Core Values Implemented:
+### Extreme programming (XP) Core Values Implemented:
 
-<ul>
-	<li> Communication: </li>
-	<li> Feedback: </li>
-	<li> Simplicity </li>
-	<li> Courage </li>
-	<li> Respect </li>
-</ul>
+  * Communication
+  * Simplicity
+  * Feedback
+  * Courage 
+  * Respect
+   	* Everyone was respectful of other team members' time and suggestions. 
+   	* Team members respected different opinions and suggestions of each other during the process of choosing technology stacks. Everyone respectfully agreed on the technologies that were chosen based on the majority vote and promised to study and gain the required skills for implementing them.
+   	* Whenever an unpredicted problem was happening to a team member, everyone was very supportive and respectful and tried to help and solved the issue
+
+	
+
+
 
 
 ### Architectural Diagram
 ![ArchDia](https://user-images.githubusercontent.com/78836467/114156018-fa053280-98d6-11eb-8da6-76a0370bbbc9.jpg)
-
-### Deployment Diagram
-<img width="741" alt="image" src="https://user-images.githubusercontent.com/78231680/118226331-9fae4300-b43b-11eb-90bc-807bb6da2f1b.png">
-
 
 
 
