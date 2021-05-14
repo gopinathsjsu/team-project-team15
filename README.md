@@ -47,8 +47,12 @@ team-project-team15 created by GitHub Classroom
        * We had a built-in feedback review at the end of every meeting at least for 15 minutes to check on what worked according to the plan and what needs to be corrected in 		future.
        * During the testing phase, we tested features developed by other team members and gave feedback to each other. It helped us to identify the bugs.
        * Feedback helped us in identifying the roadblocks, improve and perform better.
+       
   * Courage 
-
+       * We were deciding estimates according to real time circumstances and according to that we proceeded.
+       * We didn't do unnecessary documentation for failures.
+       * We worked as team, so that we did not had fear of working alone.
+       * We were courageous enough to accept changes in the middle of implementation.
 
   * Respect
    	* Everyone was respectful of other team members' time and suggestions. 
