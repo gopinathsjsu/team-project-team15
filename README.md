@@ -39,8 +39,8 @@ team-project-team15 created by GitHub Classroom
   * Communication
     * Communication was one of the key strengths of our team. Even though we were not able to meet in person and were in different time zones, our team managed to meet every week on Monday, Wednesday and Friday for the scrum.
     * During the call, we tracked our progress and also took care of dependency issues and other blockers.
-   * We used JIRA to keep track of our user stories. This helped us to understand the progress of various tasks throughout the sprint.
-   * We decided to take on tasks based on individual areas of strength and also helped each other by collaborating through our Slack channel on a daily basis. Any doubts or issues were discussed on the channel regularly.
+    * We used JIRA to keep track of our user stories. This helped us to understand the progress of various tasks throughout the sprint.
+    * We decided to take on tasks based on individual areas of strength and also helped each other by collaborating through our Slack channel on a daily basis. Any doubts or issues were discussed on the channel regularly.
     * In this difficult time of covid pandemic, we spent some time after scrum to vent out our frustrations and offer support to each other. This eventually helped in building good relationships among the team members.
 
   * Simplicity
