@@ -49,6 +49,10 @@ team-project-team15 created by GitHub Classroom
 ### Architectural Diagram
 ![ArchDia](https://user-images.githubusercontent.com/78836467/114156018-fa053280-98d6-11eb-8da6-76a0370bbbc9.jpg)
 
+### Deployment Diagram
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/78231680/118226331-9fae4300-b43b-11eb-90bc-807bb6da2f1b.png">
+
+
 
 
 
