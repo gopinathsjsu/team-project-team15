@@ -38,6 +38,9 @@ team-project-team15 created by GitHub Classroom
 
   * Communication
   * Simplicity
+  	* We performed requirement analysis with a critical eye to identify essential parts of the project scope and do only what was needed.
+  	* Actively working on avoiding duplications helped us keep our code easy to maintain as we added more APIs and corresponding UI elements.
+  	* We ensured that the names of all classes/methods/variables are understandable and revealed the intent clearly.
   
   * Feedback
        * Feedback played a vital role during the initial stages and testing phase. We were dedicated to listen to everyone’s ideas without interruption. 
