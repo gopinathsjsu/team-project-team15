@@ -17,7 +17,7 @@ team-project-team15 created by GitHub Classroom
   * Backend  : Python Flask
   * Database : MongoDB
   * Postman - REST API client to test the developed APIs
-  
+  * Cloud - Amazon Web Services (AWS)
 ### Scrum manager tool: 
    
   * JIRA
@@ -65,7 +65,8 @@ team-project-team15 created by GitHub Classroom
 
 
 ### Architectural Diagram
-![ArchDia](https://user-images.githubusercontent.com/78836467/114156018-fa053280-98d6-11eb-8da6-76a0370bbbc9.jpg)
+![architecture](https://user-images.githubusercontent.com/78836467/118317072-737eda80-b4ac-11eb-9baf-9384aa0d8431.png)
+
 
 ### Database Design
 ![image](https://user-images.githubusercontent.com/80734579/118271495-f9b41480-b4de-11eb-9f60-2ccb2a35a6ba.png)
