@@ -35,15 +35,13 @@ team-project-team15 created by GitHub Classroom
    
 ### XP Core Values Implemented:
 
-  * Communication
-  * Simplicity
-  * Feedback
-  * Courage 
-  * Respect
-
-	
-
-
+<ul>
+	<li> Communication: </li>
+	<li> Feedback: </li>
+	<li> Simplicity </li>
+	<li> Courage </li>
+	<li> Respect </li>
+</ul>
 
 
 ### Architectural Diagram
