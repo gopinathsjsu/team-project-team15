@@ -13,7 +13,7 @@ Online Banking System for AZASE
   
 ### Tools and Languages used: 
    
-  * Frontend : React JS , HTML, CSS
+  * Frontend : React JS
   * Backend  : Python Flask
   * Database : MongoDB
   * Postman - REST API client to test the developed APIs
