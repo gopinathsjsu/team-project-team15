@@ -124,7 +124,7 @@ https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
     npm run build
     ```
 3. Go to online_bank
-   * To open app on http
+  * To open app on http
       ```
       pip install -r requirements.txt
       export FLASK_APP=run.py
