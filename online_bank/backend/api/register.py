@@ -3,7 +3,7 @@ from .utils import to_d128, deposit
 
 register_bp = am.Blueprint('register', __name__)
 
-
+#deposit was added
 @register_bp.route('/register', methods=['POST'])
 def register_user():
     data = am.request.get_json()
