@@ -75,8 +75,9 @@ Online Banking System for AZASE
 
 
 ### Database Design
-![image](https://user-images.githubusercontent.com/80734579/118271495-f9b41480-b4de-11eb-9f60-2ccb2a35a6ba.png)
-![image](https://user-images.githubusercontent.com/80734579/118271509-ffa9f580-b4de-11eb-92c3-8929796e4c11.png)
+![image](https://user-images.githubusercontent.com/80734579/118350197-05511b00-b573-11eb-9557-bb5486d6db79.png)
+![image](https://user-images.githubusercontent.com/80734579/118350203-0a15cf00-b573-11eb-9823-7c06bdb131ca.png)
+
 
 
 ### UI Wireframes
