@@ -88,7 +88,9 @@
 
 
 ### Deployment Diagram
-![deployment_diagram](https://user-images.githubusercontent.com/78836467/118349049-2d089a80-b503-11eb-858b-1f6c4d808733.png)
+
+![image](https://user-images.githubusercontent.com/78231680/118372222-68d44c00-b565-11eb-9d50-b78bc3fbd701.png)
+
 
 
 ### Sprint Journal
