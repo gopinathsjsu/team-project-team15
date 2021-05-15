@@ -79,7 +79,8 @@ Online Banking System for AZASE
 
 ![image](https://user-images.githubusercontent.com/80734579/118370838-33f8e100-b5c7-11eb-80b3-566f3f0713ec.png)
 
-![image](https://user-images.githubusercontent.com/80734579/118350203-0a15cf00-b573-11eb-9823-7c06bdb131ca.png)
+![image](https://user-images.githubusercontent.com/80734579/118370948-bbdeeb00-b5c7-11eb-8297-46d8771f983b.png)
+
 
 
 
