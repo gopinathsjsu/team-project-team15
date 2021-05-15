@@ -90,7 +90,7 @@ Online Banking System for AZASE
 
 ### Sprint Journal
 
-[Sprint Journal - Zeel.pdf](https://github.com/gopinathsjsu/team-project-team15/files/6487709/Sprint.Journal.-.Zeel.pdf)
+![Sprint Journal - Zeel_page-0001](https://user-images.githubusercontent.com/20592430/118370300-e8f5b400-b55b-11eb-95fb-6bed0e67ddc9.jpg)
 
 
 ### Task Sheet
