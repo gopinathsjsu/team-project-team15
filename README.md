@@ -115,27 +115,27 @@ https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
 
 ### Steps to test the application
 1. Clone the repository
-```
-git clone https://github.com/gopinathsjsu/team-project-team15.git
-```
+    ```
+    git clone https://github.com/gopinathsjsu/team-project-team15.git
+    ```
 2. Go to react-app directory
-```
-npm install
-npm run build
-```
+    ```
+    npm install
+    npm run build
+    ```
 3. Go to online_bank
-  * To open app on http
-    ```
-    pip install -r requirements.txt
-    export FLASK_APP=run.py
-    flask run --host=0.0.0.0 --port=80
-    ```
+   * To open app on http
+      ```
+      pip install -r requirements.txt
+      export FLASK_APP=run.py
+      flask run --host=0.0.0.0 --port=80
+      ```
   or
   * To open app on http://localhost:5000
-    ```
-    pip intsall -r requirements.txt
-    python run.py
-    ```
+      ```
+      pip intsall -r requirements.txt
+      python run.py
+      ```
 4. Open browser and check application
 
 
