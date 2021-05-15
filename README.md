@@ -1,7 +1,6 @@
 # Team-project-Team15
-Online Banking System for AZASE
 
-## Online Banking system
+## Online Banking system for AZASE
 
 ### Team Members : 
   
@@ -76,7 +75,11 @@ Online Banking System for AZASE
 
 ### Database Design
 ![image](https://user-images.githubusercontent.com/80734579/118350197-05511b00-b573-11eb-9557-bb5486d6db79.png)
-![image](https://user-images.githubusercontent.com/80734579/118350203-0a15cf00-b573-11eb-9823-7c06bdb131ca.png)
+
+![image](https://user-images.githubusercontent.com/80734579/118370838-33f8e100-b5c7-11eb-80b3-566f3f0713ec.png)
+
+![image](https://user-images.githubusercontent.com/80734579/118370948-bbdeeb00-b5c7-11eb-8297-46d8771f983b.png)
+
 
 
 
@@ -85,7 +88,9 @@ Online Banking System for AZASE
 
 
 ### Deployment Diagram
-![deployment_diagram](https://user-images.githubusercontent.com/78836467/118349049-2d089a80-b503-11eb-858b-1f6c4d808733.png)
+
+![image](https://user-images.githubusercontent.com/78231680/118372222-68d44c00-b565-11eb-9d50-b78bc3fbd701.png)
+
 
 
 ### Sprint Journal
@@ -97,6 +102,17 @@ Online Banking System for AZASE
 
 ### BurnDown Charts
 https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
+
+### EC2 Deployment with Load Balancer
+
+* Created 2 instances and deployed application on both of them.
+
+![image](https://user-images.githubusercontent.com/20592430/118372011-1f373180-b564-11eb-8cd8-89ceddf3923a.png)
+
+* Created load balancer and added those 2 instances in it.
+
+![image](https://user-images.githubusercontent.com/20592430/118371999-0e86bb80-b564-11eb-9d44-ef1609b7e9a2.png)
+
 
 
 
