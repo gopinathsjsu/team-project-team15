@@ -96,6 +96,9 @@
 ### Sprint Journal
 
 ![Sprint Journal - Zeel_page-0001](https://user-images.githubusercontent.com/20592430/118370300-e8f5b400-b55b-11eb-95fb-6bed0e67ddc9.jpg)
+![Sprint-Tasks](https://user-images.githubusercontent.com/43404881/118373566-79d48b80-b56c-11eb-9754-4bef24beef88.JPG)
+
+
 
 
 ### Task Sheet
