@@ -84,6 +84,7 @@ Online Banking System for AZASE
 
 
 ### Deployment Diagram
+![deployment_diagram](https://user-images.githubusercontent.com/78836467/118349049-2d089a80-b503-11eb-858b-1f6c4d808733.png)
 
 
 ### Sprint Journal
