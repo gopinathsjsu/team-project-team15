@@ -101,6 +101,17 @@
 ### BurnDown Charts
 https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
 
+### EC2 Deployment with Load Balancer
+
+* Created 2 instances and deployed application on both of them.
+
+![image](https://user-images.githubusercontent.com/20592430/118372011-1f373180-b564-11eb-8cd8-89ceddf3923a.png)
+
+* Created load balancer and added those 2 instances in it.
+
+![image](https://user-images.githubusercontent.com/20592430/118371999-0e86bb80-b564-11eb-9d44-ef1609b7e9a2.png)
+
+
 
 
 
