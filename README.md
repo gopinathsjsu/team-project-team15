@@ -99,10 +99,10 @@
 ![Sprint-Tasks](https://user-images.githubusercontent.com/43404881/118373566-79d48b80-b56c-11eb-9754-4bef24beef88.JPG)
 
 <img width="925" alt="SprintJ" src="https://user-images.githubusercontent.com/78836467/118374915-3b8e9a80-b573-11eb-861b-d31b007a5545.png">
+![image](https://user-images.githubusercontent.com/80734579/118375289-8691c780-b5de-11eb-9222-c82bf5db4764.png)
 
 
 
-### Task Sheet
 
 ### BurnDown Charts
 https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
