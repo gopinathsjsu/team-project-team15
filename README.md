@@ -1,7 +1,6 @@
 # Team-project-Team15
-Online Banking System for AZASE
 
-## Online Banking system
+## Online Banking system for AZASE
 
 ### Team Members : 
   
