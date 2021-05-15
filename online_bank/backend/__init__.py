@@ -17,8 +17,7 @@ cors = CORS()
 
 
 def create_app(current_config=DevelopmentConfig):
-    app = Flask(__name__, static_folder=str(current_config.STATIC_PATH),
-                template_folder=current_config.TEMPLATE_PATH)
+    app = Flask(__name__, static_folder=str(current_config.STATIC_PATH),template_folder=current_config.TEMPLATE_PATH)
     app.config.from_object(current_config)
 
     mongo.init_app(app)
@@ -27,8 +26,8 @@ def create_app(current_config=DevelopmentConfig):
     cors.init_app(app)
 
     # Blueprints
-    from flaskbank.backend.api import API_BLUEPRINTS
-    from flaskbank.backend.main.routes import main_bp
+    from backend.api import API_BLUEPRINTS
+    from backend.main.routes import main_bp
 
     for bp in API_BLUEPRINTS:
         app.register_blueprint(bp, url_prefix='/api')

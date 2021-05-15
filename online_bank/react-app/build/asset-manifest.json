@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.169bc9ce.chunk.css",
+    "main.js": "/static/js/main.f9407db4.chunk.js",
+    "main.js.map": "/static/js/main.f9407db4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84ec8e64.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84ec8e64.js.map",
+    "static/js/2.483c14d0.chunk.js": "/static/js/2.483c14d0.chunk.js",
+    "static/js/2.483c14d0.chunk.js.map": "/static/js/2.483c14d0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.169bc9ce.chunk.css.map": "/static/css/main.169bc9ce.chunk.css.map",
+    "static/js/2.483c14d0.chunk.js.LICENSE.txt": "/static/js/2.483c14d0.chunk.js.LICENSE.txt",
+    "static/media/001.c86ba7de.jpeg": "/static/media/001.c86ba7de.jpeg",
+    "static/media/002.85babc43.jpeg": "/static/media/002.85babc43.jpeg",
+    "static/media/Deposit.621820f2.png": "/static/media/Deposit.621820f2.png",
+    "static/media/IMG_1055.681cc666.jpeg": "/static/media/IMG_1055.681cc666.jpeg",
+    "static/media/bg.cfd257a2.jpeg": "/static/media/bg.cfd257a2.jpeg",
+    "static/media/logo.a0788990.jpeg": "/static/media/logo.a0788990.jpeg",
+    "static/media/moneytransfer.145ea7b9.jpeg": "/static/media/moneytransfer.145ea7b9.jpeg",
+    "static/media/paybill.12a496af.jpeg": "/static/media/paybill.12a496af.jpeg",
+    "static/media/website_ui.3ea03374.jpeg": "/static/media/website_ui.3ea03374.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84ec8e64.js",
+    "static/js/2.483c14d0.chunk.js",
+    "static/css/main.169bc9ce.chunk.css",
+    "static/js/main.f9407db4.chunk.js"
+  ]
+}
