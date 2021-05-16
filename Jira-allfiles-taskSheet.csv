@@ -1,0 +1,46 @@
+Task Summary,Sprint,Assignee,Issue Type,Status,Project key,Project name,Project lead,Resolution,Reporter,Created,Resolved,Status Category
+Delete account by manager API,Sprint 6,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,09/May/21 3:02 AM,12/May/21 4:47 PM,Done
+Register Frontend,Sprint 6,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,05/May/21 6:59 AM,12/May/21 12:42 AM,Done
+Bill Payments UI,Sprint 6,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,05/May/21 6:59 AM,12/May/21 1:57 PM,Done
+Authorization,Sprint 6,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,05/May/21 6:58 AM,08/May/21 6:16 AM,Done
+Completing Transfer API (Back-End),Sprint 6,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,05/May/21 6:57 AM,11/May/21 10:28 PM,Done
+Completing Register API (Back-End),Sprint 6,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,05/May/21 6:57 AM,11/May/21 8:28 PM,Done
+Final testing and host app on AWS,Sprint 6,Sandhya Santhanam,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anushree Ganta,05/May/21 6:57 AM,12/May/21 2:10 PM,Done
+Autopay(One time-time intervals),Sprint 5,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,28/Apr/21 10:14 PM,05/May/21 6:53 AM,Done
+Refund Database(Transactions),Sprint 5,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,28/Apr/21 10:14 PM,05/May/21 6:53 AM,Done
+Internal Transfer UI,Sprint 5,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,28/Apr/21 10:14 PM,05/May/21 6:53 AM,Done
+Completing withdraw REST API,Sprint 5,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,28/Apr/21 10:14 PM,03/May/21 9:15 PM,Done
+Start working on Transfer REST API,Sprint 5,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,28/Apr/21 10:14 PM,03/May/21 9:14 PM,Done
+Create blueprints for different APIs,Sprint 5,Sandhya Santhanam,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,28/Apr/21 10:13 PM,04/May/21 7:26 PM,Done
+Role based authentication,Sprint 5,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,28/Apr/21 10:08 PM,05/May/21 2:03 AM,Done
+Refund Page,Sprint 5,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,28/Apr/21 10:08 PM,05/May/21 6:53 AM,Done
+Learning more avanced FLASK skills,Sprint 4,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,21/Apr/21 9:51 PM,28/Apr/21 9:41 PM,Done
+BackEnd-Add Account by manager,Sprint 4,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,21/Apr/21 9:50 PM,26/Apr/21 7:40 PM,Done
+Close Account by manager,Sprint 4,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,21/Apr/21 9:50 PM,26/Apr/21 7:40 PM,Done
+Deposit Validations,Sprint 4,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,21/Apr/21 9:49 PM,26/Apr/21 7:40 PM,Done
+Learn Flask(Advance),Sprint 4,Sandhya Santhanam,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,21/Apr/21 9:48 PM,27/Apr/21 6:19 PM,Done
+Deposit API,Sprint 4,Sandhya Santhanam,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,19/Apr/21 10:13 PM,28/Apr/21 8:40 PM,Done
+Start working on Withdraw REST API,Sprint 4,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,19/Apr/21 10:13 PM,26/Apr/21 7:40 PM,Done
+Deposit UI,Sprint 4,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,19/Apr/21 10:12 PM,28/Apr/21 9:40 PM,Done
+Create Dash Board,Sprint 4,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,19/Apr/21 10:12 PM,28/Apr/21 3:02 PM,Done
+Start create Login/Registration Page,Sprint 3,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,16/Apr/21 10:51 PM,19/Apr/21 10:08 PM,Done
+Role based authentication,Sprint 3,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Anagha Sethuraman,16/Apr/21 10:50 PM,19/Apr/21 10:08 PM,Done
+SearchAPI,Sprint 3,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:43 PM,21/Apr/21 12:13 PM,Done
+FrontEnd-Add/Close Account,Sprint 3,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:43 PM,21/Apr/21 12:13 PM,Done
+Start creating front end,Sprint 3,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:40 PM,27/Apr/21 6:19 PM,Done
+Learning more advanced skills on FLASK API,Sprint 3,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:29 PM,21/Apr/21 8:56 PM,Done
+Start working on  UML diagram,Sprint 3,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:05 PM,21/Apr/21 8:56 PM,Done
+Learning-Flask and work on Login API,Sprint 3,Sandhya Santhanam,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:03 PM,19/Apr/21 10:08 PM,Done
+ Profile Settings,Sprint 3,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:03 PM,19/Apr/21 12:15 PM,Done
+Start working on Register REST API,Sprint 3,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,16/Apr/21 10:02 PM,17/Apr/21 7:06 PM,Done
+"Login Page-Client/Manager ,",Sprint 2,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Sandhya Santhanam,07/Apr/21 10:08 PM,16/Apr/21 9:58 PM,Done
+Learning ReactJS (Basic),Sprint 2,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Zeel Jayeshkumar,05/Apr/21 8:39 PM,16/Apr/21 9:58 PM,Done
+Learning MongoDB,Sprint 2,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:34 PM,16/Apr/21 9:58 PM,Done
+Learning how to create REST APIs in Flask ,Sprint 2,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:30 PM,16/Apr/21 9:30 PM,Done
+Creating UI Wireframes  ,Sprint 2,Ealrada Piroyan,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:30 PM,16/Apr/21 11:30 PM,Done
+Identifying Components,Sprint 2,Zeel Jayeshkumar,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:27 PM,16/Apr/21 9:58 PM,Done
+Architectural Diagram,Sprint 2,Anagha Sethuraman,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:26 PM,16/Apr/21 9:58 PM,Done
+Working on HomePage UI layout,Sprint 2,Anushree Ganta,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:23 PM,16/Apr/21 9:59 PM,Done
+Create deployment diagram,Sprint 2,Sandhya Santhanam,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,05/Apr/21 8:20 PM,16/Apr/21 9:59 PM,Done
+Research on various technologies,Sprint 1,All,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,2021-03-31,05/Apr/21 8:20 PM,Done
+"brain storming about flow, aspect and technologies.",Sprint 1,All,Story,Done,CMPE202,Group-15,Ealrada Piroyan,Done,Ealrada Piroyan,2021-03-31,05/Apr/21 8:20 PM,Done
