@@ -111,7 +111,7 @@
 https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
 
 ### Task Sheet
-https://github.com/gopinathsjsu/team-project-team15/blob/main/Jira-allfiles-taskSheet.csv
+https://github.com/gopinathsjsu/team-project-team15/blob/main/Task-Sheet-Jira-allfiles.xlsx
 
 ### EC2 Deployment with Load Balancer
 
