@@ -110,6 +110,9 @@
 ### BurnDown Charts
 https://github.com/gopinathsjsu/team-project-team15/tree/main/Burn_down_charts
 
+### Task Sheet
+https://github.com/gopinathsjsu/team-project-team15/blob/main/Jira-allfiles-taskSheet.csv
+
 ### EC2 Deployment with Load Balancer
 
 * Created 2 instances and deployed application on both of them.
